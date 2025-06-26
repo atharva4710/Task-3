@@ -4,14 +4,14 @@
 📌 Objective
 Implement and understand simple and multiple linear regression models using a real-estate dataset.
 
-🧰 Tools Used
-Python 
-Pandas
-Scikit-learn
-Matplotlib
+🧰 Tools Used-
+Python,
+Pandas,
+Scikit-learn,
+Matplotlib,
 
 🗂️ Dataset
-Housing.csv
+-Housing.csv
 
 🔍 Steps Performed
 Data Loading & Preprocessing
